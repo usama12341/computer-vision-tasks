@@ -1,0 +1,12 @@
+Computer Vision FYP
+Project name:
+Color Identification in real world
+
+Group Leader:
+    
+  Muhammad Bilal    BIT21248
+
+Group Members:
+
+  Muhammad Usama    BIT21252
+  Abdullah          BIT21213
